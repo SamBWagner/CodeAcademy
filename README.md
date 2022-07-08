@@ -1,4 +1,4 @@
-# Code Dump
+# CodeAcademy Exersizes and Projects
 
 A place for me to dump my small bits of code.
 
